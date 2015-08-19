@@ -1,0 +1,14 @@
+c:\users\joshua\documents\visual studio 2015\Projects\06-Notepad\06-Notepad\bin\Debug\06-Notepad.exe.config
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\MainWindow.g.cs
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\App.g.cs
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad_MarkupCompile.cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad_MarkupCompile.lref
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\bin\Debug\06-Notepad.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\bin\Debug\06-Notepad.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\MainWindow.baml
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad.g.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\_06_Notepad.Properties.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad.exe
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\06-Notepad\06-Notepad\obj\Debug\06-Notepad.pdb
